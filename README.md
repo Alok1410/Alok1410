@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alok1410
+- 👋 Hi, I’m Alok
 - 👀 I’m interested in Automating Mundane Works
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Automation Test Frameworks
